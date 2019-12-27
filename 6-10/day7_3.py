@@ -11,4 +11,4 @@ print(str[2:]) # c123456 str的第三个字符到最后一个字符
 print(str[2::2]) # c246 str的第三个字符开始，隔一个字符取一个
 print(str[::2]) # ac246
 print(str[::-1]) # 654321cba str开头开始，倒着取
-print(str[-3:-1]) # 45 
+print(str[-3:-1]) # 45

@@ -20,7 +20,7 @@ class Click(object):
         print('现在时间为%02d:%02d:%02d'%(self.__hour,self.__minute,self.__second))
 
 def main():
-    click = Click(23,59,58)
+    click = Click(23,59,58) # click = Click()
     while(True):
         click.show()
         time.sleep(1)

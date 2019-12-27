@@ -1,4 +1,3 @@
-
 str1 = 'hello, world!'
 # 通过内置函数len计算字符串的长度
 print(len(str1)) # 13
